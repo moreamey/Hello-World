@@ -1,6 +1,16 @@
-Hello-World
-===========
+HelloScala
+==========
 
-First Git Repository
+Hello World Spring Boot Scala Web App
 
-I'm crazy about soccer.
+
+How to run
+==========
+
+```sh
+gradle build
+gradle bootRun
+```
+
+
+
